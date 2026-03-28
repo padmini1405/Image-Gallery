@@ -21,7 +21,7 @@ This project demonstrates component-based architecture, dynamic rendering, and r
 - CSS3
 
 ## How to view
-You can access my website by visiting this [link].Feel free to explore the content and get in touch.
+You can access my website by visiting this https://image-gallery-delta-vert.vercel.app/ .Feel free to explore the content and get in touch.
 
 
 👩‍💻 Developed by Padmini K
